@@ -1,1 +1,1 @@
-* FlowCtrl by yang.xu 
+* FlowCtrl by yang.xu ( Beta ) 
